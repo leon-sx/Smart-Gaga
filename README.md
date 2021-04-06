@@ -1,4 +1,5 @@
 # Smart-Gaga
+## Antes de qualquer procedimento ou modificação em seu smart gaga faça backup dos arquivos para evitar a perda por causa da tela azul.
 #### Link do meu canal - https://www.youtube.com/channel/UCctyeqO-Ua0A4RZmUGY4g8A
 #### Download via Mediafire - https://www.mediafire.com/file/qmcca18x53tjy60/SmartGaga.rar/file
 #### Download via Drive - https://drive.google.com/file/d/1D32TSZLjjgEWN9rZmMCIMk71KP-gIrtH/view?usp=sharing
